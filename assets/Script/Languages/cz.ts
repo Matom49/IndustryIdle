@@ -1,6 +1,6 @@
 export const EN = {
     Translator: "Překladatel",
-    TranslatorName: "Kedron",
+    TranslatorName: "Matom49",
     Language: "Jazyk",
     ThisLanguage: "Čeština",
     OK: "OK",
